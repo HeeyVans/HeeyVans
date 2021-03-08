@@ -3,7 +3,7 @@
 
 <img align='right' src='https://i.pinimg.com/originals/82/c4/2f/82c42f96e262cd476f3dd378a6d70f2d.gif' width='300'>
 
-*EAD technical support* at [@UFRPE](http://www.ead.ufrpe.br).
+*Internship | Google for Education Instructor* at [@Safetec](https://www.safetec.com.br).
 
 <a href="https://www.linkedin.com/in/vanessa-oliveira-0642b01ba/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/heeyvans"><img src="https://img.shields.io/badge/instagram-E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white"></a>
